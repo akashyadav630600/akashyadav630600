@@ -11,7 +11,7 @@
   <a href="https://github.com/akashyadav630600" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="aakashyadav88812@gmail.com">
+  <a href="mailto:aakashyadav88812@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -65,10 +65,10 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<h3 align="center">📬 Contact Me</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AkashYadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <a href="mailto:aakashyadav88812@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-FF5733?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="hire me button" />
+  </a>
 </div>
